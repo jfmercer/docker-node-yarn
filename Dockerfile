@@ -1,4 +1,4 @@
-FROM node:7
+FROM node:7.4.0
 
 MAINTAINER John F. Mercer <john.f.mercer@gmail.com>
 
